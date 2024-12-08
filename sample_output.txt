@@ -1,0 +1,64 @@
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 140ms/step
+tweet: "I love you"
+toxic: False
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+
+
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 126ms/step
+tweet: "you piece of shit"
+toxic: True
+severe_toxic: False
+obscene: True
+threat: False
+insult: True
+identity_hate: False
+
+
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 81ms/step
+tweet: "you motherfucker piece of shit go die somewhere "
+toxic: True
+severe_toxic: True
+obscene: True
+threat: False
+insult: True
+identity_hate: False
+
+
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 158ms/step
+tweet: "you fucking LGBTQ"
+toxic: True
+severe_toxic: False
+obscene: True
+threat: False
+insult: True
+identity_hate: False
+
+
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 106ms/step
+tweet: "I'll kill you"
+toxic: True
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+
+
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 83ms/step
+tweet: "You are so beautiful"
+toxic: False
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
