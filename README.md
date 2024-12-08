@@ -19,7 +19,7 @@ To set up H2H on your local machine, follow these steps:
 3. **Clone the Repository**  
    Clone this repository or download it as a ZIP file and extract it.  
    ```bash
-   git clone https://github.com/your-username/H2H.git
+   git clone https://github.com/GLYSATVIK/H2H.git
    cd H2H
    ```
 
